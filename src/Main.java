@@ -112,6 +112,7 @@ public class Main {
         double annualOFIncome = mashaReceivesRublesOFMonth1 * 365;
         double incomeOFAnnual = denisReceivesRubleOFMonth2 * 365;
         double incomeOFAnnuale = kristinaReceivesRublesOFMonth2 * 365;
+
         System.out.println("Маша теперь получает mashaReceivesRublesOFMonth1+salaryOFProcents рублей. Годовой доход вырос на mashaReceivesRublesOFMonth1 * 365рублей рублей ");
         System.out.println("Денис теперь получает denisReceivesRubleOFMonth2 + salaryOFProcents рублей.Годовой доход вырос на denisReceivesRubleOFMonth2 * 365 рублей ");
         System.out.println("Кристина теперь получает kristinaReceivesRublesOFMonth2+ salaryOFProcents рублей.Годовой вырос на kristinaReceivesRublesOFMonth2 * 365 рублей");
